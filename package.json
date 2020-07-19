@@ -6,7 +6,7 @@
   },
   "devDependencies": {
     "admin-lte": "^2.3.5",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "bootstrap": "^3.3.7",
     "bootstrap-daterangepicker": "^2.1.24",
     "datatables.net": "^1.10.12",
