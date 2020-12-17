@@ -9,7 +9,7 @@
     "lodash": "^4.17.4",
     "bootstrap": "^3.3.7",
     "bootstrap-daterangepicker": "^2.1.24",
-    "datatables.net": "^1.10.12",
+    "datatables.net": "^1.10.22",
     "dropzone": "4.3.0",
     "eonasdan-bootstrap-datetimepicker": "^4.15.35",
     "font-awesome": "^4.6.3",
